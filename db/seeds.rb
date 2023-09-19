@@ -1,3 +1,5 @@
+require 'faker'
+
 user_pictures = []
 
 6.times do
